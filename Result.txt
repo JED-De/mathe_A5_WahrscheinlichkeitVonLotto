@@ -1,0 +1,3 @@
+Frequenz von eine Ziehung: 1132
+Frequenz von zwei Ziehungen: 17597
+n wert = 3
